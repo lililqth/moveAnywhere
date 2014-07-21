@@ -1,0 +1,9 @@
+/三轮全向移动机器人运动学建模/Debug/
+/Debug/
+*.vcxproj
+*.filters
+*.sdf
+*.sln
+*.suo
+! *.h
+! *.cpp
